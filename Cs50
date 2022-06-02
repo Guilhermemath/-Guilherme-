@@ -1,0 +1,5 @@
+#include <Studio.h>
+Inte main (void)
+{
+     Printf("oi,mundo\n")
+}
